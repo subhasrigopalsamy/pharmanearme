@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PharmaNearMe</string>
+    <string name="pharma_dist">%d km</string>
+</resources>
